@@ -1,1 +1,1 @@
-# .github
+# Probabilistic Inversion in Geoscience 
